@@ -4,7 +4,7 @@ Matt Agar - this repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ## Activity 1 
 
-![alt text](images/444_lab2_install_flask.png)
+![alt text](images/444_lab2_activity_1.png)
 
 ## Activity 2
 
