@@ -12,3 +12,9 @@ Commit Messages
 ![alt text](images/444_lab2_activity_2_commits.png)
 Hello, Matt web page
 ![alt text](images/444_lab2_activity_2.png)
+
+## Activity 3
+
+![alt text](images/444_lab2_activity_3.png)
+
+
